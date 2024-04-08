@@ -1,0 +1,3 @@
+-- ADD COLUMN created_by
+ALTER TABLE products 
+ADD COLUMN created_by INTEGER DEFAULT NULL;

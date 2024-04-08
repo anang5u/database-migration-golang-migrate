@@ -1,0 +1,3 @@
+{
+    "DatabaseMigration" : "postgres://192.168.1.5:5432/db_migration_demo?user=postgres&sslmode=disable"
+}
